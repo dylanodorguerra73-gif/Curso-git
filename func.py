@@ -1,0 +1,2 @@
+nombre= "pepe"
+apellido ="armando"
