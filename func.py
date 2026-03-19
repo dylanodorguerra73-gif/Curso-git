@@ -1,2 +1,2 @@
-nombre= "pedrito"
+nombre= "conflicto"
 apellido ="armando"
